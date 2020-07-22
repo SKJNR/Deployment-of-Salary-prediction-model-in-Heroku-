@@ -1,5 +1,4 @@
 # Deployment-of-Salary-prediction-model-in-Heroku-
 
-
-  ##Demo
-    https://salarypredictionex.herokuapp.com/
+##Demo
+https://salarypredictionex.herokuapp.com/
